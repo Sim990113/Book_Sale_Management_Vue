@@ -1,0 +1,250 @@
+.bookTable{
+    min-width:2320px;
+    overflow: hidden;
+}
+.bookData{
+    position: absolute;
+    top: 100px;
+    left: 210px;
+    bottom: 0px;
+    width: auto;
+    right:0px;
+    overflow-y: auto;
+}
+.addbookData{
+    position: absolute;
+    top: 120px;
+    left: 210px;
+    bottom: 0px;
+    width: auto;
+    right:0px;
+    overflow-y: auto;
+}
+.updatebookData{
+    position: absolute;
+    top: 120px;
+    left: 210px;
+    bottom: 0px;
+    width: auto;
+    right:0px;
+    overflow-y: auto;
+}
+.otrow{
+    width: 100%;
+}
+.thirdrow{
+    width:330px;
+}
+.login_header{
+    height: 95px!important;
+    background-color: white;
+    border-bottom: 5px solid #409eff;
+}
+.home_header{
+    height: 150px!important;
+    background-color: white;
+    border-bottom: 5px solid #409eff;
+    offset: bottom;
+}
+
+
+.aside {
+    position:absolute;
+    top:105px;
+    bottom:0px;
+    background-color: rgb(238, 241, 246);
+}
+
+.el-dropdown-link {
+    cursor: pointer;
+}
+.el-icon-arrow-down {
+    font-size: 12px;
+}
+.el-textarea__inner {
+    height: 170px;
+}
+.logo{
+    height: 90px;
+    width: 90px;
+}
+.home_logo{
+    position: relative;
+    top: 6px;
+    left: 400%;
+    height: 70px;
+    width: 70px;
+}
+.LoginForm{
+    position: relative;
+    left:25% ;
+    width:50%;
+    height: 83vmin;
+    background-color: white;
+}
+.Logincontent{
+    position: relative;
+    left: 15%;
+    top: 35px;
+}
+.logrow{
+    width: 400px;
+}
+
+.SignupForm{
+    position: relative;
+    left:25% ;
+    width:50%;
+    height:83vmin;
+    background-color: white;
+}
+.SignupContent{
+    position: relative;
+    left: 15%;
+    top: 35px;
+}
+.signuprow{
+    width: 400px;
+}
+
+.ForgetForm{
+    position: relative;
+    left:25% ;
+    width:50%;
+    height:83vmin;
+    background-color: white;
+}
+.ForgetContent{
+    position: relative;
+    left: 15%;
+    top: 35px;
+}
+.forgetrow{
+    width: 400px;
+}
+
+
+/*让上菜单鼠标经过就变蓝*/
+.el-link--inner:hover{
+    color: #409eff;
+}
+
+.el-dropdown-menu{
+    top:16%!important;
+    position: relative;
+    left: 16%!important;
+    width:15%
+}
+
+.top_menu{
+    position:relative;
+    top: -20px;
+    font-family: 锐字云字库隶书GB;
+    font-size: medium;
+}
+.top2_menu{
+    position:relative;
+    top: -25px;
+    font-family: 锐字云字库综艺体GBK;
+    font-size: 25px;
+}
+
+.roll_pic{
+    position: relative;
+    height: 360px;
+    width: 1287px;
+    left: 15%;
+    top:10px;
+}
+
+.el-tabs__active-pane{
+    color: #409eff;
+}
+
+.book_image{
+    height: 226px;
+    width:169px;
+    cursor: pointer;
+}
+
+/*::-webkit-scrollbar {*/
+/*    width: 0 !important;height: 0;*/
+/*}*/
+
+.books_title{
+    position: relative;
+    left: 6%;
+    font-size: 15px;
+    font-weight: bold;
+    color: #333333;
+}
+
+.books_price{
+    position: relative;
+    left: 80px;
+    top:-40px;
+}
+.books_discount{
+    position: relative;
+    left: 10px;
+    color: #409eff;
+
+}
+
+.right-tabs{
+    position: relative;
+    left: 1285px;
+    top:-445px;
+    width: 276px;
+    height: 420px;
+}
+
+.book_hot{
+    position: relative;
+    left: 1285px;
+    top:-455px;
+    width: 280px;
+    color: #409eff;
+}
+
+.more{
+    position: relative;
+    left: 1310px;
+    top:-455px;
+    width: 280px;
+}
+
+.el-collapse-item__content{
+    height:82px
+}
+
+.littlebook_img{
+    position: relative;
+    width:61px;
+    height: 82px;
+    cursor: pointer;
+}
+
+.little_price{
+    position: relative;
+    left: 150px;
+    top:-139px;
+}
+
+.little_discount{
+    position: relative;
+    left: 80px;
+    top:-100px;
+    color: #409eff;
+}
+
+/*.books_cart{*/
+/*    position: relative;*/
+/*    right: 20px;*/
+/*}*/
+
+
+/*.el-tabs__active-bar{*/
+/*    background-color:rgb(73,178,82);*/
+/*}*/
+
